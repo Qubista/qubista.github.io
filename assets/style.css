@@ -1,0 +1,13 @@
+@font-face {
+font-family: "MonoCraft";
+src: url("Monocraft.ttf");
+}
+body {
+background-color:#000000;
+color: #ff062f;
+font-family:"Monocraft";
+text-align: center;
+}                     
+html:hover {
+cursor:url("/assets/cursor.png"), auto;
+}
