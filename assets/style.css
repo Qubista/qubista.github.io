@@ -9,5 +9,5 @@ font-family:"Monocraft";
 text-align: center;
 }                     
 html:hover {
-cursor:url("/assets/cursor.png"), auto;
+cursor:url("/cursor.png"), auto;
 }
